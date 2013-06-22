@@ -2,6 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
+domain: cser.org
 url: http://cser.org
 title: Centre for the Study of Existential Risk
 description: Cambridge Centre for the Study of Existential Risk
@@ -39,4 +40,4 @@ titlecase: true       # Converts page and post titles to titlecase
 # ----------------------- #
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-41943826-1
