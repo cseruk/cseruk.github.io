@@ -86,6 +86,9 @@ Professor of Genetics, Harvard Medical School
 [Doyne Farmer](http://www.oxfordmartin.ox.ac.uk/people/407)<br>
 Co-Director, Complexity Economics, Institute for New Economic Thinking, Oxford
 
+[Alison Gopnik](http://www.alisongopnik.com/)<br>
+Professor of Psychology and Affiliate Professor of Philosophy, UC Berkeley
+
 [Robert May](http://www.zoo.ox.ac.uk/people/view/may_r.htm)<br>
 Professor of Zoology, Oxford; Fellow of Merton College; past President of the Royal Society
 
