@@ -3,17 +3,18 @@ layout: page
 sidebar: false
 ---
 
-## The Cambridge Project for Existential Risk
+## The Cambridge Centre for the Study of Existential Risk
 
 Many scientists are concerned that developments in human technology may soon pose new, extinction-level risks to our species as a whole. Such dangers have been suggested from progress in AI, from developments in biotechnology and artificial life, from nanotechnology, and from possible extreme effects of anthropogenic climate change. The seriousness of these risks is difficult to assess, but that in itself seems a cause for concern, given how much is at stake. (For a brief introduction to these issues, see our [Resources](resources.html) page.)
-
-The Cambridge Project for Existential Risk — a joint initiative between a philosopher, a scientist, and a software entrepreneur — begins with the conviction that these issues require a great deal more scientific investigation than they presently receive. Our aim is to establish within the University of Cambridge a multidisciplinary research centre dedicated to the study and mitigation of risks of this kind. We are convinced that there is nowhere on the planet better suited to house such a centre. Our goal is to steer a small fraction of Cambridge's great intellectual resources, and of the reputation built on its past and present scientific pre-eminence, to the task of ensuring that our own species has a long-term future. (In the process, we hope to make it a little more certain that we humans will be around to celebrate the University's own millennium, now [less than two centuries hence](http://www.cam.ac.uk/univ/800/).)
-
-We are developing a prospectus for a Cambridge-based **Centre for the Study of Existential Risk**, and seeking sources of funding. We welcome enquiries and offers of support — please see our [News & Contact](contact.html) page for contact details and a sign-up link for our new mailing list, *CSER News.*
+ 
+The Cambridge **Centre for the Study of Existential Risk** (CSER) — a joint initiative between a philosopher, a scientist, and a software entrepreneur — was founded on the conviction that these issues require a great deal more scientific investigation than they presently receive. CSER is a multidisciplinary research centre dedicated to the study and mitigation of risks of this kind.
+ 
+Our goal is to steer a small fraction of Cambridge’s great intellectual resources, and of the reputation built on its past and present scientific pre-eminence, to the task of ensuring that our own species has a long-term future. (In the process, we hope to make it a little more certain that we humans will be around to celebrate the University’s own millennium, now less than two centuries hence.)
+ 
+CSER is now hosted within Cambridge’s Centre for Research in the Arts, Social Sciences and Humanities (CRASSH), under the management of Dr. Seán Ó hÉigeartaigh. We are currently funded by a seed donation from founder Jaan Tallinn, and are seeking sources of funding for a number of planned research projects. We welcome enquiries and offers of support — please see our [News & Contact](contact.html) page for contact details and a sign-up link for our new mailing list, [CSER News](http://eepurl.com/Cs_HD).
 
 HP, MJR & JT<br>
-December 2012
-
+July 2013
 
 #### Co-founders
 
