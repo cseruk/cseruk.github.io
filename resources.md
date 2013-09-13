@@ -10,7 +10,7 @@ The following sources provide an introduction to issues of catastrophic risk, in
 
 #### Things by us
 
-1. [Astronomer Royal on science, environment and the future](http://theconversation.com/astronomer-royal-on-science-environment-and-the-future-18162) a speech by Martin Rees at the British Science Festival in Newcastle. 
+1. [Astronomer Royal on science, environment and the future](http://theconversation.com/astronomer-royal-on-science-environment-and-the-future-18162) a speech by Martin Rees at the British Science Festival in Newcastle on September 12. 
 1. [Earth in its final century?](http://www.youtube.com/watch?v=3qF26MbYgOA) A TED talk by Martin Rees.
 1. [*Our Final Century?*](http://www.amazon.co.uk/Our-Final-Century-Humanitys-Twenty-first/dp/0099436868) (2003) and *[From Here to Infinity](http://www.amazon.co.uk/Here-Infinity-Scientific-Horizons-Lectures/dp/1846685036)* (2011) — books by Martin Rees.
 1. [Denial of catastrophic risk](http://www.sciencemag.org/content/339/6124/1123.full). An editorial in *Science* (8 March 2013) by Martin Rees.<br>
