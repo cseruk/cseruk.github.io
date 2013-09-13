@@ -17,4 +17,4 @@ HP, MJR & JT
 
 ### Newsletter Archive
 
-* [August 2013](http://us7.campaign-archive2.com/?u=4ea4100d3725552d8efc5a0ef&id=74391c1d82)
+* [August 2013](http://eepurl.com/Fd0Tn)
