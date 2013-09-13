@@ -7,6 +7,9 @@ sidebar: false
 
 Some recent articles, interviews, and other media and online discussions of CSER.
 
+1. "[Britain's academics to produce 'doomsday list' of catastrophic events](http://www.dailytelegraph.com.au/technology/sci-tech/geniuses-predict-how-the-world-will-end-and-how-to-avoid-it/story-fni0c0qq-1226718860033)" *The Telegraph,* 13 Septebmer 2013.
+1. "[Killer robots and crippling cyber attacks: How the world is going to end](http://www.dailymail.co.uk/sciencetech/article-2418990/Science-superheroes-famous-thinkers-form-doomsday-society-save-humanity-asteroids-pandemics--itself.html)" *The Daily Mail,* 13 Septebmer 2013.
+1. "[The Survival of Humanity](http://blogs.scientificamerican.com/guest-blog/2013/09/13/the-survival-of-humanity/)" *Scientific American,* 13 Septebmer 2013.
 1. "[Humanity’s last invention and our uncertain future](http://www.cam.ac.uk/research/news/humanitys-last-invention-and-our-uncertain-future/)" *Research News,* University of Cambridge, 25 November 2012.
 1. "[I robot, you soon to be extinct](http://www.thesundaytimes.co.uk/sto/newsreview/features/article1167225.ece)" Bryan Appleyard in *The Sunday Times*, 25 November 2012 (also accessible on Bryan Appleyard's [blog](http://www.bryanappleyard.com/i-extinct-you-robot/)).
 1. "[Cambridge to study technology's risk to humans](http://bigstory.ap.org/article/cambridge-study-technologys-risk-humans)" Sylvia Hui, Associated Press, 25 November 2012.
