@@ -94,7 +94,7 @@ Professor of Psychology and Affiliate Professor of Philosophy, UC Berkeley
 Professor of Zoology, Oxford; Fellow of Merton College; past President of the Royal Society
 
 [Stuart Russell](www.cs.berkeley.edu/~russell/)<br>
-Professor of Computer Science, University of California, Berkeley; Co-author of "Artificial Intelligence: A Modern Approach" the leading textbook in Artificial Intelligence
+Professor of Computer Science, University of California, Berkeley; Co-author of "Artificial Intelligence: A Modern Approach"
 
 [Dana Scott](http://en.wikipedia.org/wiki/Dana_Scott)<br>
 Emeritus Professor of Computer Science, Philosophy & Mathematical Logic, Carnegie Mellon University
