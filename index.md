@@ -64,7 +64,7 @@ Professor of Environment and Policy and Professorial Fellow of Newnham College
 Winton Professor of the Public Understanding of Risk
 
 [William Sutherland](http://www.zoo.cam.ac.uk/zoostaff/sutherland.htm)<br>
-Miriam Rothschild Professor of Conservation Biology; Emeritus Professor of Philosophy
+Miriam Rothschild Professor of Conservation Biology;
 
 [Adrian Weller](http://www.cantab.org/)<br>
 Director, Cambridge in America
