@@ -36,7 +36,7 @@ Founding Director, Centre for Science and Policy
 [Tim Crane](http://www.timcrane.com/)<br>
 Knightbridge Professor of Philosophy
 
-[Partha Dasgupta](http://www.econ.cam.ac.uk/faculty/person.html?id=dasgupta&group=faculty)<br>
+[Partha Dasgupta](http://www.econ.cam.ac.uk/faculty/person.html?id=dasgupta&group=emeritus)<br>
 Frank Ramsey Professor Emeritus of Economics
 
 [Robert Doubleday](http://www.csap.cam.ac.uk/network/robert-doubleday/)<br>
