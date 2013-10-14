@@ -94,13 +94,16 @@ Professor of Psychology and Affiliate Professor of Philosophy, UC Berkeley
 Professor of Zoology, Oxford; Fellow of Merton College; past President of the Royal Society
 
 [Stuart Russell](www.cs.berkeley.edu/~russell/)<br>
-Professor of Computer Science, University of California, Berkeley; Co-author of "Artificial Intelligence: A Modern Approach"
+Professor of Computer Science, University of California, Berkeley
 
 [Dana Scott](http://en.wikipedia.org/wiki/Dana_Scott)<br>
 Emeritus Professor of Computer Science, Philosophy & Mathematical Logic, Carnegie Mellon University
 
 [Murray Shanahan](http://www.doc.ic.ac.uk/%7Empsha/index.html)<br>
 Professor of Cognitive Robotics, Imperial College, London
+
+[Peter Singer](https://www.princeton.edu/~psinger/)<br>
+Professor of Bioethics, Princeton University. 
 
 [Max Tegmark](http://space.mit.edu/home/tegmark/)<br>
 Professor of Physics, MIT
