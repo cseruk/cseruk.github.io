@@ -25,7 +25,6 @@ The following sources provide an introduction to issues of catastrophic risk, in
 1. [Why the future doesn't need us](http://www.wired.com/wired/archive/8.04/joy.html). A classic and controversial piece by [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy), co-founder of Sun Microsystems.<br>
 1. [*Catastrophe: Risk and Response*](http://www.oup.com/us/catalog/general/subject/Economics/Political/?view=usa&ci=9780195306477) (2005). An important book by [Richard Posner](http://en.wikipedia.org/wiki/Richard_Posner) — "worth the price of the book simply for Posner's lively and readable summary of the apocalyptic dystopias that serious scientists judge to be possible" (*Washington Post*).
 1. [Omens](http://www.aeonmagazine.com/world-views/ross-andersen-human-extinction/). An excellent recent profile of the work of Nick Bostrom and his colleagues at the [Future of Humanity Institute](http://www.fhi.ox.ac.uk/), Oxford.
-http://www.newyorker.com/online/blogs/elements/2013/10/why-we-should-think-about-the-threat-of-artificial-intelligence.html
 1. [Why we should think about the threat of artificial intelligence](http://www.newyorker.com/online/blogs/elements/2013/10/why-we-should-think-about-the-threat-of-artificial-intelligence.html). A good article by [Gary Marcus](http://en.wikipedia.org/wiki/Gary_Marcus), Professor of psychology at New York University.<br>
  
 [To be continued]
