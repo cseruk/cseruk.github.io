@@ -1765,5 +1765,6 @@ body>footer p:last-child { margin-bottom: 0 }
 article { background-image: url("/images/paper-background.jpg") }
 body>header {
     background-image: url("/images/trinity-banner.jpg");
-    width:100%;
+    background-repeat:no-repeat;
+    background-size:100%;
     }
