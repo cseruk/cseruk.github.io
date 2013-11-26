@@ -1768,4 +1768,10 @@ body>header {
     background-repeat:no-repeat;
     background-size:100%;
     height:auto;
-    }
+}
+
+@media only screen and (max-width: 560px) { 
+	body>header {
+	    height:40px;
+	}
+}
