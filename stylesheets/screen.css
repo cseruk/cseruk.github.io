@@ -1763,4 +1763,7 @@ body>footer a:visited { color: #6b6b6b }
 body>footer a:hover { color: #484848 }
 body>footer p:last-child { margin-bottom: 0 }
 article { background-image: url("/images/paper-background.jpg") }
-body>header { background-image: url("/images/trinity-banner.jpg") }
+body>header {
+    background-image: url("/images/trinity-banner.jpg");
+    width:100%;
+    }
